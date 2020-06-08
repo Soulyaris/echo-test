@@ -2,7 +2,7 @@
   <h1 class="calculator-header">
     Калькулятор
   </h1>
-  <form class="calculator-form" id="calculator-form" action="/script/php/calc.php" method="POST">
+  <form class="calculator-form" id="calculator-form" action="calc.php" method="POST">
     <div class="calculator-params">
       <div class="calculator-params-row">
         <label for="calculator-date">Дата оформления вклада</label>
